@@ -1,20 +1,20 @@
-title:            Balzac
-tagline:          A beautiful theme.
+title:            QED
+tagline:          Quantifying the everday.
 description:      Describe your website.
-canonical: http://jekyll.gtat.me
+#canonical: http://jekyll.gtat.me
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
-  avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  name:           Shreyas Lakhtakia
+  avatar:         https://avatars1.githubusercontent.com/u/6972368?v=3&u=bb73a6f9ab311f4d96f95be904d8f46b9ebcd97c&s=140
+  bio:            "Dreamer, Doer, Jedi // Data & Design"
+  email:          shreyas@lakhtakia.com
+  twitter:        shr_lak
+  github:         lshreyas
+  instagram:      shrlak
+  #dribbble:       coletownsend
+  #disqus:         balzac
+  location:       "Cambridge, MA"
   # Plug in your disqus shortname!
 
 tools:
