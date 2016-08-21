@@ -1,11 +1,11 @@
 ---
-layout: post-no-feature
-permalink: /about/index.html
-title: About Me
-description: Data Scientist, Design Geek, Occasional Jedi
+layout: post
+permalink: /author/index.html
+title: whois
+description: Data Scientist, Design Geek, & Occasional Jedi
 tags: [about, who, shreyas]
 image:
-  feature: princeton-bike.jpg
+  feature: gili.jpg
 ---
 
 I'm an engineer by training and data scientist by trade. I'm interested in policy and management, with a passion for technology and data. I currently work as a data scientist in the [Systems Medicine Lab](http://www.labsysmed.org) at the [Harvard Medical School](http://www.hms.harvard.edu), where we're treading a fine line between a startup and a research lab. I'm really passionate about beautiful products that make a difference. Among other things, I've programmed a robot, engineered an autonomous semi-intelligent car, and as of this morning, successfully cooked edible breakfast.
