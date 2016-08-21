@@ -30,6 +30,8 @@ opengraph:
 links:
   - title: About
     url: /about
+  - title: Author
+    url: /author
   # # - title: Github
   # #   url: https://github.com/lshreyas/
   # #   external: true
