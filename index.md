@@ -1,9 +1,7 @@
 ---
 layout: home
-title: Shreyas Lakhtakia
-tags: [shreyas, landing, home, data, decisions, machine learning, data-driven]
+title: "Recent Posts"
+tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: typewriter.jpg
 ---
-
-index.html
