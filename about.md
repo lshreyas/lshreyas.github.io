@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /author/index.html
+permalink: /about/index.html
 title: Sh-ray-us Lukh-tuck-ia
 description: 
 tags: [about, who, shreyas]
