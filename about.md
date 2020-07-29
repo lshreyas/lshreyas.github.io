@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /about/index.html
-title: 
+title: Shreyas Lakhtakia
 description: 
 tags: [about, who, shreyas]
 image:
