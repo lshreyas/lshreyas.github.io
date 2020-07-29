@@ -8,7 +8,7 @@ image:
   feature: gili.jpg
 ---
 
-### <center>Data Scientist, Design Geek, Occasional Jedi</<center>
+### <center>Data Scientist, Design Geek, Occasional Jedi</center>
 
 *<center>Pronounced Sh-ray-us Luckh-tuck-ia</center>*
 
