@@ -9,7 +9,9 @@ image:
 ---
 
 ### <center>Data Scientist, Design Geek, Occasional Jedi</<center>
+
 *<center>Pronounced Sh-ray-us Luckh-tuck-ia</center>*
+
 I'm an engineer by training and data scientist by trade. I'm interested in technology and policy and passionate about design and data. I currently work as a data scientist at [Flatiron Health](http://www.flatiron.com/) where my team is using [machine learning](https://www.ispor.org/heor-resources/presentations-database/presentation/intl2020-3182/100099) to expand accesss to care. Before this, I was fortunate to work with [Ziad Obermeyer](http://ziadobermeyer.com/) and [Sendhil Mullainathan](https://www.chicagobooth.edu/faculty/directory/m/sendhil-mullainathan) 
 in the [Systems Medicine Lab](http://www.labsysmed.org), where we trod a fine line between think-tank and startup. 
 
