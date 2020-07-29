@@ -1,6 +1,6 @@
-title:            QED
+title:            Personal webpage
 tagline:          Quantifying the everday.
-description:      A data science blog for the curious and the numerically inclined.
+description:      Minimal online presence of Shreyas Lakhtakia
 #canonical: http://jekyll.gtat.me
 
 # Owner/author information
@@ -14,7 +14,7 @@ owner:
   instagram:      shrlak
   #dribbble:       coletownsend
   #disqus:         balzac
-  location:       "Cambridge, MA"
+  location:       "New York, NY"
   # Plug in your disqus shortname!
 
 tools:
@@ -30,8 +30,10 @@ opengraph:
 links:
   - title: About
     url: /about
-  - title: Author
-    url: /author
+  - title: Life
+    url: https://www.instagram.com/shrlak/
+  # - title: Author
+  #   url: /author
   # # - title: Github
   # #   url: https://github.com/lshreyas/
   # #   external: true
