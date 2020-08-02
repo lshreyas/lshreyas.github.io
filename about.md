@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /about.html
+permalink: /about/index.html
 title: Shreyas, rhymes with Petraeus
 description: 
 tags: [about, who, shreyas]
