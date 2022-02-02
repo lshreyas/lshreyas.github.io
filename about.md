@@ -16,6 +16,6 @@ In a past life, I worked with [lasers](https://ee.princeton.edu/), wrote a coupl
 
 I've lived in India, Germany and currently hop between New York, NY and Palo Alto, CA, where I run a small [café](https://beaglecafe.xyz/) for folks in the neighborhood. I grew up trilingual and like dogs, stationery and nice sweaters. I see 2 golden retrievers in my future, but until then, I'm biding my time as a volunteer at [PAWS in New York](https://pawsny.org/).
 
-<br><<br><br>
+<br><br>
 **Acknowledgements**<br>
 [Cole Townsend](http://twnsnd.co/) and [Jaan Altosaar](https://jaan.io/about/) for creating this theme and introducing me to [Jekyll](https://jekyllrb.com/) respectively.
