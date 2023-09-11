@@ -1,6 +1,6 @@
 ---
 layout: home
 permalink: /articles/index.html
-title: Writings
+title: "Writings"
 tags: [blog, data, writings]
 ---
