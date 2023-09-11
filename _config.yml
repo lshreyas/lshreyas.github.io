@@ -37,11 +37,9 @@ links:
   - title: Coffee
     url: https://www.beaglecafe.xyz/
     external: true
-  - writing: true
-    url: /about
-  - projects: Projects
-    url: /projects
-
+  - title: Writing
+    url: /writing
+  
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true
