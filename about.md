@@ -13,7 +13,7 @@ image:
 
 ### About 
 I'm passionate about improving human health and society with data and technology, care deeply about human community and, enjoy deep conversations. 
-Presently, I'm exploring AI for good applications as a [Threshold Venture Fellow](https://stvp.stanford.edu/tvf#Current-Cohort) and questions of fairness and interpretability in AI  as [Defense Innovation Scholar](https://gordianknot.stanford.edu/people/shreyas-lakhtakia) at [Stanford](https://msande.stanford.edu/). 
+Presently, I'm exploring AI for good applications as a [Threshold Venture Fellow](https://stvp.stanford.edu/tvf#Current-Cohort) and questions of fairness and interpretability in AI  as [Defense Innovation Scholar](https://gordianknot.stanford.edu/people/shreyas-lakhtakia) at [Stanford](https://msande.stanford.edu/). A third-person bio is [here](https://www.lakhtak.io/bio).
 
 ### Data Scientist turned AI Product Manager
 Previously, I was an AI product manager at [Flatiron Health](https://www.flatiron.com/), helping create one of the world's richest and most current datasets on [how cancer is being treated in the real world](https://flatiron.com/resources/using-machine-learning-to-reimagine-the-infrastructure-of-cancer-care) to further drug development and cancer research.
