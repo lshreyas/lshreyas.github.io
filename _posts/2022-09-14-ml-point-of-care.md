@@ -50,7 +50,7 @@ These discussions led to a joint prospective study in which patients with cancer
 
 For both groups, regardless of randomization, no component of the eligibility assessment or patient care was changed. This study design assessed the model’s real world precision/recall relative to outcome prevalence. We also received qualitative feedback from end users that confirmed the ease of operationalizing the ML-based tool and incorporating it into workflows.
 
-![FFigure 2. Conceptual diagram of randomized controlled prospective evaluation of ML tool]({{ site.url }}/images/pointofcare/randomization.jpg)
+![Figure 2. Conceptual diagram of randomized controlled prospective evaluation of ML tool]({{ site.url }}/images/pointofcare/randomization.jpg)
 
 Having then assessed the ML tool performance and usability prospectively, we were ready for deployment. 
 
