@@ -70,10 +70,10 @@ Here is our framework to develop, deploy, and evaluate an EHR ML-based clinical 
 
 Overall, it is key to **listen closely to the challenges described by frontline health workers** and clinical administrators, remaining focused on the opportunity for technology tools to make meaningful gains in clinical workflow efficiency and patient outcomes. 
 
-`Learn more about the ML framework and see an illustrative example from Huntsman Cancer Institute by reading the full [paper](https://www.nature.com/articles/s41746-022-00660-3) in npj Digital Medicine.` 
+`Learn more about the ML framework and see an illustrative example from Huntsman Cancer Institute by reading the full paper in npj Digital Medicine.` 
 
 ### More Resources
-
+- Link to the [full paper](https://www.nature.com/articles/s41746-022-00660-3)
 - Ben-Israel D, Jacobs WB, Casha S, Lang S, Ryu WHA, de Lotbiniere-Bassett M, Cadotte DW. The impact of machine learning on patient care: A systematic review. Artif Intell Med. 2020 Mar;103:101785. doi: 10.1016/j.artmed.2019.101785. Epub 2019 Dec 31. PMID: 32143792.
 - Coombs L, Orlando A, Wang X, Shaw P, Rich A, Lakhtakia, Titchener K, Adamson B, Miksad R, Mooney K. A machine learning framework supporting prospective clinical decisions applied to risk prediction in oncology. npj Digit. Med. 5, 117 (2022). https://doi.org/10.1038/s41746-022-00660-3 
 - Estevez M, Benedum CM, Jiang C, Cohen AB, Phadke S, Sarkar S, Bozkurt S. Considerations for the Use of Machine Learning Extracted Real-World Data to Support Evidence Generation: A Research-Centric Evaluation Framework. Cancers. 2022; 14(13):3063. https://doi.org/10.3390/cancers14133063 
