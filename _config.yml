@@ -38,8 +38,6 @@ links:
     url: https://www.beaglecafe.xyz/
     external: true
   - title: Writing
-    url: /writing
-  - title: Articles
     url: /articles
   
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
