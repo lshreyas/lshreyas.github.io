@@ -5,7 +5,7 @@ description: "Life advice from a Bayesian Lens"
 category: writing
 tags: [data science, life advice, road trip]
 image:
-  feature: highway_one_cropped.jpg
+  feature: highway1.jpg
   thumb: 
 ---
 
@@ -14,9 +14,9 @@ There are a lot of things to love about California – public transit isn’t on
 
 Naturally, no part of me really believed I was up to the task.
 
-Beliefs we hold are a lot like hypotheses in data science. In fact, how much we believe something is nothing but our assessment of that something’s probability. And there is no subject on which we hold more beliefs than ourselves. *I am a good person. I am possibly smart. I can’t do this.*  
+Beliefs we hold are a lot like hypotheses in data science. In fact, how much we believe something is nothing but our assessment of that something’s probability. And there is no subject on which we hold more beliefs than ourselves. _I am a good person. I am possibly smart. I can’t do this._  
 
-So where do our beliefs come from? Many we are raised with. *I’ve got to go to college.* A number we discover as we go along. *I’m good at math.* At some stage, as we experience fewer novel things, it feels like we have crystallized our beliefs, especially about ourselves. *I’m not a person who drives.* Beliefs are how we make decisions in an uncertain world.
+So where do our beliefs come from? Many we are raised with. *I’ve got to go to college.* A number we discover as we go along. `I’m good at math.` At some stage, as we experience fewer novel things, it feels like we have crystallized our beliefs, especially about ourselves. **I’m not a person who drives.** Beliefs are how we make decisions in an uncertain world.
 
 When it comes to reasoning with uncertainty, Bayesian inference introduces two helpful concepts. There is the prior, what Wikipedia calls “an estimate of the probability of a given hypothesis before data is observed”. This is a lot like the innate beliefs we hold, such as my high-school conviction that going to college was good (despite not yet having gone). The more interesting concept is the posterior, which is an updated assessment of our conviction in a hypothesis based on data we observe. Having gone to college, how good was it after all? *Quite good, made friends and learned some things, 9/10, would recommend.*
 
