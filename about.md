@@ -1,8 +1,8 @@
 ---
 layout: post
 permalink: /about/index.html
-title:
-description: Shreyas Lakhtakia, Data Scientist turned AI Product Manager
+title: Shreyas Lakhtakia
+description: Data Scientist turned AI Product Manager
 tags: [about, who, shreyas]
 image:
   feature: gili.jpg
