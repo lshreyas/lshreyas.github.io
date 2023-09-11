@@ -2,7 +2,7 @@
 layout: post
 permalink: /about/index.html
 title: Shreyas Lakhtakia
-description: "Data scientist, AI product manager, human"
+description: 
 tags: [about, who, shreyas]
 image:
   feature: gili.jpg
@@ -10,9 +10,7 @@ image:
 <!-- 
 **<center>Pronounced Sh-ray-us Luckh-tuck-ia</center>**
  -->
-I'm passionate about improving human health and society with data and technology, care deeply about human community and, enjoy deep conversations. 
-
-Presently, I'm exploring AI for good applications as a [Threshold Venture Fellow](https://stvp.stanford.edu/tvf#Current-Cohort) and questions of fairness and interpretability in AI  as [Defense Innovation Scholar](https://gordianknot.stanford.edu/people/shreyas-lakhtakia) at [Stanford](https://msande.stanford.edu/). 
+I'm passionate about improving human health and society with data and technology, care deeply about human community and, enjoy deep conversations. Presently, I'm exploring AI for good applications as a [Threshold Venture Fellow](https://stvp.stanford.edu/tvf#Current-Cohort) and questions of fairness and interpretability in AI  as [Defense Innovation Scholar](https://gordianknot.stanford.edu/people/shreyas-lakhtakia) at [Stanford](https://msande.stanford.edu/). 
 
 Previously, I was an AI product manager at Flatiron Health, helping create one of the world's richest and most current datasets on [how cancer is being treated in the real world](https://flatiron.com/resources/using-machine-learning-to-reimagine-the-infrastructure-of-cancer-care) to further drug development and cancer research.
 
