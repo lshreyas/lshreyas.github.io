@@ -33,7 +33,10 @@ Just as crucial has been the use of ammonia to unlock high yield per unit farmla
 
 ![]({{ site.url }}/images/food/fertilizer_use.jpg)
 
-It takes an order of magnitude less of ammonia, and this efficiency, combined with our industrial abilities to manufacture ammonia through the Fritz-Haber process have made ammonia the source of 50% of all nitrogen needed to grow food. **Said differently, half of all the world’s food comes directly from our ability to synthesize ammonia.** The issue is, energy-intensive ammonia synthesis (powered by fossil-fuels today) is a leading cause of carbon emissions, leading to the same amount of emissions as all of South Africa[^4].
+It takes an order of magnitude less of ammonia, and this efficiency, combined with our industrial abilities to manufacture ammonia through the Fritz-Haber process have made ammonia the source of 50% of all nitrogen needed to grow food. 
+>Said differently, half of all the world’s food comes directly from our ability to synthesize ammonia.** 
+
+The issue is, energy-intensive ammonia synthesis (powered by fossil-fuels today) is a leading cause of carbon emissions, leading to the same amount of emissions as all of South Africa[^4].
 
 In addition, today, most farm machines, which are essential to producing the quantities of food necessary, rely on fuel for operation. Vitally, an immense amount of fossil fuel energy also goes into transporting and refrigerating the food we produce, accounting for 15% of global fossil fuel use.
 
@@ -54,7 +57,11 @@ Beef and lamb are still incredibly carbon-costly, which means most paleo diets a
 `Fun fact #3: Despite their enormous significance in Indian, Italian, Spanish and other cuisines, tomatoes are not endemic to them. They are native to Mexico and South America and were introduced worldwide by European transatlantic traders. A real fruit[^5] of early globalization.`
 
 ### Five – Food waste is tragic. It must be phased, not priced out.
-If shopping organic from Whole Foods, going paleo or becoming vegan aren’t strictly correct answers to the food, and some meat seems essential for healthy eating – what can be done? We must waste less food. Estimates from the Food and Agriculture Organization[^6] seem to suggest that nearly 30% of all food is wasted from harvest to consumption. There is waste at every step of our complex food supply chains, and about half of all waste takes place until retail and half thereafter. Smil, in How the World Really Works writes that estimates from the UK's Waste and Resources Action Programme show that almost 70% of wasted food is perfectly edible. In sum, wasting 20% of the world’s total food supply seems criminal. In addition to harvest and transport waste, there is also non-food waste in how crops are grown that is troubling. Estimates suggest that almost two-thirds of the nitrogen that is used to grow rice in China is not absorbed by plants[^7].
+If shopping organic from Whole Foods, going paleo or becoming vegan aren’t strictly correct answers to the food, and some meat seems essential for healthy eating – what can be done? We must waste less food. 
+
+>Estimates from the Food and Agriculture Organization[^6] seem to suggest that nearly 30% of all food is wasted from harvest to consumption. 
+
+There is waste at every step of our complex food supply chains, and about half of all waste takes place until retail and half thereafter. Smil, in How the World Really Works writes that estimates from the UK's Waste and Resources Action Programme show that almost 70% of wasted food is perfectly edible. In sum, wasting 20% of the world’s total food supply seems criminal. In addition to harvest and transport waste, there is also non-food waste in how crops are grown that is troubling. Estimates suggest that almost two-thirds of the nitrogen that is used to grow rice in China is not absorbed by plants[^7].
 
 Economic incentives are good ways to limit waste, but food, like healthcare, has a peculiar distribution such that raising food prices might not work. Put simply, making food more expensive won’t eliminate waste by the rich, while making food significantly more expensive for the poor for whom food is already a significant portion of household incomes. We might have to fix food waste the old fashioned way: ordering less, finishing what we order and by keeping a closer eye on what’s in our fridges.
 
@@ -63,7 +70,9 @@ In sum, our relationship with food must change: too much of it is being consumed
 ### Food’s future frontiers 
 Technology has facilitated both cultivating more land (thanks to mechanization) and increasing the yield per land (thanks to high-yield variety seeds, synthetic fertilizers and pesticides). But what’s remarkable is that how we grow – and consume – food hasn’t fundamentally changed dramatically for centuries. But this approach – of getting more out of the same – seems to have run out of road. 
 
-Changing the food landscape would require addressing some fundamental bottlenecks: supplying crops with nitrogen more effectively, synthesizing ammonia more greenly, or dramatically changing how meat is grown. Advances in biotechnology[^9] might help crops fix their own nitrogen, limiting the need for ammonia. Meat is being successfully cultured in in labs, which could stall growing carbon emissions from rearing animals for food[^10]. For all their promise, it remains to be seen if they can scale to satiate the world’s hunger. Indeed, feeding nearly 10 billion people thanks to expensive new technologies, at the prices of food from traditional farming, which matured over centuries, will be an uphill battle. Smil finds this incredulous. I don’t share his pessimism – after all, only 50 years ago, a world without famine seemed just as out of reach.
+>Changing the food landscape would require addressing some fundamental bottlenecks: supplying crops with nitrogen more effectively, synthesizing ammonia more greenly, or dramatically changing how meat is grown. 
+
+Advances in biotechnology[^9] might help crops fix their own nitrogen, limiting the need for ammonia. Meat is being successfully cultured in in labs, which could stall growing carbon emissions from rearing animals for food[^10]. For all their promise, it remains to be seen if they can scale to satiate the world’s hunger. Indeed, feeding nearly 10 billion people thanks to expensive new technologies, at the prices of food from traditional farming, which matured over centuries, will be an uphill battle. Smil finds this incredulous. I don’t share his pessimism – after all, only 50 years ago, a world without famine seemed just as out of reach.
 
 
 
