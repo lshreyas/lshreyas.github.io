@@ -5,8 +5,8 @@ description: "Life advice from a Bayesian Lens"
 category: articles
 tags: [data science, life advice, road trip]
 image:
-  feature: pianofeature.jpg
-  thumb: pianoicon.png
+  feature: highway_one.jpeg
+  thumb: 
 ---
 
 ### The Bay Area Rules, Bayes Rules
