@@ -5,7 +5,7 @@ description: "Life advice from a Bayesian Lens"
 category: writing
 tags: [data science, life advice, road trip]
 image:
-  feature: highway_one.jpg
+  feature: highway_one_cropped.jpg
   thumb: 
 ---
 
