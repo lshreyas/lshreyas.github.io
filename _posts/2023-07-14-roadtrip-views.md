@@ -1,5 +1,5 @@
 ---
-layout: post-light-feature
+layout: post
 title: Navigating Uncertainty – Views from a Road Trip
 description: The Bay Area's Rule and Bayes Rule
 category: articles
