@@ -28,7 +28,7 @@ Just as crucial has been the use of ammonia to unlock high yield per unit farmla
 
 ![]({{ site.url }}/images/food/fertilizer_use.jpg)
 
-It takes an order of magnitude less of ammonia, and this efficiency, combined with our industrial abilities to manufacture ammonia through the Fritz-Haber process have made ammonia the source of 50% of all nitrogen needed to grow food. **Said differently, half of all the world’s food comes directly from our ability to synthesize ammonia.** The issue is, energy-intensive ammonia synthesis (powered by fossil-fuels today) is a leading cause of carbon emissions, leading to the same amount of emissions as all of South Africa.
+It takes an order of magnitude less of ammonia, and this efficiency, combined with our industrial abilities to manufacture ammonia through the Fritz-Haber process have made ammonia the source of 50% of all nitrogen needed to grow food. **Said differently, half of all the world’s food comes directly from our ability to synthesize ammonia.** The issue is, energy-intensive ammonia synthesis (powered by fossil-fuels today) is a leading cause of carbon emissions, leading to the same amount of emissions as all of South Africa[^4].
 
 In addition, today, most farm machines, which are essential to producing the quantities of food necessary, rely on fuel for operation. Vitally, an immense amount of fossil fuel energy also goes into transporting and refrigerating the food we produce, accounting for 15% of global fossil fuel use.
 
