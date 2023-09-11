@@ -13,7 +13,7 @@ image:
 
 ### One – It is a miracle that we live in a famine-free world. 
 Famines were the norm. From the 1870s to 1970s, they claimed an average of nearly 1 million lives a year[^1]. While malnutrition is a regrettable reality, famines have become rare and often avoidable. 
->In the last 50 years put together, famines claimed just 10% of lives of they used to take in a single year. 
+>In the last 50 years put together, famines claimed just 10% of lives of they used to previously take in a single year. 
 
 Having enough food is all the more impressive considering that over that time, the world’s population nearly has doubled from 4.4 billion in 1980[^2]. Add in the fact that we have been able to do this without increasing the land needed for agriculture, which has been flat worldwide since 1960[^3], and you have a downright miracle.
 
