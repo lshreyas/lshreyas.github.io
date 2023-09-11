@@ -8,7 +8,7 @@ image:
   thumb: 
 ---
 
-**This article was originally featured on the blog of the [Nature Journals](https://healthcommunity.nature.com/posts/ml-signal)**
+*This article was originally featured on the blog of the [Nature Journals](https://healthcommunity.nature.com/posts/ml-signal)*
 
 
 **“This should be easier” said Karen Titchener**, in 2018 for Huntsman at Home, about a program providing acute level “hospital at home” care along with palliative and hospice service for patients with cancer. At the time, she was the Director of Huntsman at Home, and was referring to the labor-intensive and lengthy process of reviewing patient charts to find a small percentage of patients that needed special attention. Who could benefit the most?
