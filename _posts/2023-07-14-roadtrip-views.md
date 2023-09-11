@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
-title: Navigating Uncertainty
-description: Views from a Road Trip
+title: Navigating Uncertainty – Views from a Road Trip
+description: The Bay Area's Rule and Bayes Rule
 category: articles
 tags: [data science, life advice, road trip]
 image:
@@ -10,7 +10,6 @@ image:
 ---
 **Alt title: Life Advice from a Bayesian Lens**
 
-### The Bay Area's Rule and Bayes Rule
 There are a lot of things to love about California – public transit isn’t one of them. The first rule when trying to get around the Bay Area? Get a car. This meant that when my family visited here from overseas for a holiday this past spring, someone would have to drive. And since I was the only one with a US license, that someone would have to be me. There was just one speed bump – at that point in my twenties, I had driven a cumulative fifty miles on American roads over the three lessons I needed before my singular (successful, mind you) attempt at the DMV behind-the-wheel test. It would be one thing to drive within Palo Alto – it was another entirely to traverse the distance from Napa to LA with a layover in Yosemite. 
 
 Naturally, no part of me really believed I was up to the task.
