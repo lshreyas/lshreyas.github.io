@@ -1,8 +1,8 @@
 ---
 layout: post
 permalink: /about/index.html
-title: Shreyas Lakhtakia
-description: 
+title:
+description: Shreyas Lakhtakia, Data Scientist turned AI Product Manager
 tags: [about, who, shreyas]
 image:
   feature: gili.jpg
@@ -10,7 +10,9 @@ image:
 <!-- 
 **<center>Pronounced Sh-ray-us Luckh-tuck-ia</center>**
  -->
-I'm passionate about improving human health and society with data and technology, care deeply about human community and, enjoy deep conversations. Presently, I'm exploring AI for good applications as a [Threshold Venture Fellow](https://stvp.stanford.edu/tvf#Current-Cohort) and questions of fairness and interpretability in AI  as [Defense Innovation Scholar](https://gordianknot.stanford.edu/people/shreyas-lakhtakia) at [Stanford](https://msande.stanford.edu/). Previously, I was an AI product manager at [Flatiron Health](https://www.flatiron.com/), helping create one of the world's richest and most current datasets on [how cancer is being treated in the real world](https://flatiron.com/resources/using-machine-learning-to-reimagine-the-infrastructure-of-cancer-care) to further drug development and cancer research.
+I'm passionate about improving human health and society with data and technology, care deeply about human community and, enjoy deep conversations. Presently, I'm exploring AI for good applications as a [Threshold Venture Fellow](https://stvp.stanford.edu/tvf#Current-Cohort) and questions of fairness and interpretability in AI  as [Defense Innovation Scholar](https://gordianknot.stanford.edu/people/shreyas-lakhtakia) at [Stanford](https://msande.stanford.edu/). 
+
+Previously, I was an AI product manager at [Flatiron Health](https://www.flatiron.com/), helping create one of the world's richest and most current datasets on [how cancer is being treated in the real world](https://flatiron.com/resources/using-machine-learning-to-reimagine-the-infrastructure-of-cancer-care) to further drug development and cancer research.
 
 I'm especially interested in how AI makes an impact in people's lives and spent years as a data scientist building products to help improve care for at-risk patients – not just in theory, but in [practice](http://healthcommunity.nature.com/posts/ml-signal), across leading hospitals around the US. This work has since resulted in multiple [patents](https://patents.google.com/patent/WO2021188172A1/en?inventor=shreyas+lakhtakia&oq=shreyas+lakhtakia).
 
