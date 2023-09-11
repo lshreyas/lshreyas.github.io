@@ -5,7 +5,7 @@ description: "Shreyas Lakhtakia"
 category: articles
 ---
 
-![Shreyas Lakhtakia]({{ site.url }}/images/headshot.jpg)
+![Shreyas Lakhtakia]({{ site.url }}/images/headshot_compressed.jpg)
 
 Shreyas Lakhtakia is a graduate student in [MS&E](https://msande.stanford.edu/) and 1 of 12 [Threshold Ventures Fellows](https://stvp.stanford.edu/tvf#Current-Cohort) selected from across Stanford. He is interested in the intersection of AI and society. Before grad school, he was a product manager at [Flatiron Health](flatiron.com), a Google-backed startup acquired by Roche, where he led a deep learning team creating one of the world's richest sources of [cancer care in the real world](https://flatiron.com/resources/using-machine-learning-to-reimagine-the-infrastructure-of-cancer-care) and helped build an [AI product](https://www.nature.com/articles/s41746-022-00660-3) to support the real-time care of patients across leading US cancer centers. 
 
