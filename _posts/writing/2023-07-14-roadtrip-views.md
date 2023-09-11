@@ -1,11 +1,11 @@
 ---
 layout: post-light-feature
-title: Navigating Uncertainty – Views from a Road Trip, or Life advice from a Bayesian Lens
+title: Navigating Uncertainty – Views from a Road Trip, or Bayesian Life Advice
 description: "The Bay Area Rules, Bayes Rules"
 category: writing
 tags: [data science, life advice, road trip]
 image:
-  feature: california.jpg
+  feature: california_coast2.jpg
   thumb: 
 ---
 
