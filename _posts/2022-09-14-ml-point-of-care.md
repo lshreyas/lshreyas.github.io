@@ -28,7 +28,7 @@ Development and validation of ML-based tools for electronic health records (EHR)
 [Our paper recently published in npj Digital Medicine](https://www.nature.com/articles/s41746-022-00660-3#citeas) builds a more solid framework to describe realistic stages from model conception to the incorporation into clinical workflows. We outline a process of converting a healthcare ML algorithm to a tool with defined clinical utility, by starting with an emphasis on the **clinical objective** and augmenting the traditional retrospective validation steps with prospective evaluation and monitoring. Importantly, we demonstrate the application with an example from Huntsman Cancer Institute. 
 
 
-![Figure 1. High-level framework for deployment of machine learning model-based tool in a real world cancer clinic setting]({{ site.url }}/images/pointofcare/steps.jpg)
+![]({{ site.url }}/images/pointofcare/steps.jpg)*Figure 1. High-level framework for deployment of machine learning model-based tool in a real world cancer clinic setting*
 
 ### Flatiron Health Machine Learning Team Partnered with Huntsman Cancer Institute
 
@@ -50,7 +50,7 @@ These discussions led to a joint prospective study in which patients with cancer
 
 For both groups, regardless of randomization, no component of the eligibility assessment or patient care was changed. This study design assessed the model’s real world precision/recall relative to outcome prevalence. We also received qualitative feedback from end users that confirmed the ease of operationalizing the ML-based tool and incorporating it into workflows.
 
-![Figure 2. Conceptual diagram of randomized controlled prospective evaluation of ML tool]({{ site.url }}/images/pointofcare/randomization.jpg)
+![]({{ site.url }}/images/pointofcare/randomization.jpg)*Figure 2. Conceptual diagram of randomized controlled prospective evaluation of ML tool*
 
 Having then assessed the ML tool performance and usability prospectively, we were ready for deployment. 
 
