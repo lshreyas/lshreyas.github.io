@@ -2,7 +2,7 @@
 layout: post-light-feature
 title: Navigating Uncertainty
 description: Views from a Road Trip
-category: writing
+category: articles
 tags: [data science, life advice, road trip]
 image:
   feature: pacific_coast_highway.jpg
