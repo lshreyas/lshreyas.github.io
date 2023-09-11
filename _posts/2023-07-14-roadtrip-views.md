@@ -3,7 +3,7 @@ layout: post
 title: Navigating Uncertainty – Views from a Road Trip
 description: The Bay Area's Rule and Bayes Rule
 category: articles
-tags: [data science, life advice, road trip]
+tags: [data science, society, life advice, road trip]
 image:
   feature: pacific_coast_highway.jpg
   thumb: 
