@@ -1,6 +1,6 @@
 ---
 layout: post-light-feature
-title: Navigating Uncertainty: Views from a Road Trip
+title: Navigating Uncertainty – Views from a Road Trip
 description: "Life advice from a Bayesian Lens"
 category: articles
 tags: [data science, life advice, road trip]
