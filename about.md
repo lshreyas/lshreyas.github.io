@@ -34,3 +34,4 @@ In past lives, I worked in management consulting at [BCG](https://www.bcg.com/),
 <br><br>
 **Acknowledgements**<br>
 [Cole Townsend](http://twnsnd.co/) and [Jaan Altosaar](https://jaan.io/about/) for creating this theme and introducing me to [Jekyll](https://jekyllrb.com/) respectively.
+<br><br>
