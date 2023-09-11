@@ -1,6 +1,6 @@
 title:            Shreyas Lakhtakia
 tagline:          Using technology to improve society
-description:      All things tech policy, data and design (not in that order)
+description:      All things data, tech and policy (not in that order)
 canonical: https://www.linkedin.com/in/shreyasl
 
 # Owner/author information
@@ -37,6 +37,10 @@ links:
   - title: Coffee
     url: https://www.beaglecafe.xyz/
     external: true
+  - writing: true
+    url: /about
+  - projects: Projects
+    url: /projects
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
