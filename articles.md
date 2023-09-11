@@ -2,7 +2,8 @@
 layout: post
 permalink: /articles/index.html
 title: Writings
+description:
+tags: [about, who, shreyas]
 image:
-	feature: eastpyne.jpg
-tags: [blog, reflections, writings]
+  feature: eastpyne.jpg
 ---
