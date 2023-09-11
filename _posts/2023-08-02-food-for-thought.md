@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Food for thought
-description: Five facts on farming, food and fossil fuels, inspired by Gates’ favorite [author](https://www.youtube.com/watch?v=4oT2WupNkGg)
+description: Five facts on farming, food and fossil fuels, inspired by Gates’ favorite
 category: articles
 tags: [data, society, food]
 image:
@@ -21,7 +21,7 @@ Famines were the norm. From the 1870s to 1970s, they claimed an average of nearl
 
 Between 1800 and 2020, the share of America’s population engaged in agriculture dropped by a whopping 98%. These downward trends, though sometimes less severe, hold across countries. How could this be possible if we’re growing more food than ever before? In How the World Really Works, Vaclav Smil shows that wheat production now requires less than two hours of human labor per hectare compared with 150 hours in 1800. This is made possible by mechanized steel plows to help plant seeds, large tractors to help maneuver them, and combines to help with harvest. 
 
-*Fun fact #1: Before the advent of machinery and after the historic domestication of animals, there was at one point  so much of a reliance on farm animals that at its peak, 25% of all farmland was dedicated to growing feed for them.*
+`Fun fact #1: Before the advent of machinery and after the historic domestication of animals, there was at one point  so much of a reliance on farm animals that at its peak, 25% of all farmland was dedicated to growing feed for them.`
 
 ### Three – The shitty reason our food is dependent on fossil fuels (it’s ammonia).
 Just as crucial has been the use of ammonia to unlock high yield per unit farmland. High-yielding varieties of grain and most vegetables require from 100-200 kilograms of nitrogen (which along with phosphorus and potassium are the 3 plant macronutrients, just as proteins, carbohydrates and fats for humans). Traditionally, this came from manure, but given their low nitrogen content, it would take up to 10 to 30 tons per hectare to provide this nitrogen. Oh shit. 
@@ -32,7 +32,7 @@ It takes an order of magnitude less of ammonia, and this efficiency, combined wi
 
 In addition, today, most farm machines, which are essential to producing the quantities of food necessary, rely on fuel for operation. Vitally, an immense amount of fossil fuel energy also goes into transporting and refrigerating the food we produce, accounting for 15% of global fossil fuel use.
 
-*Fun fact #2: China’s first major business deal with the US following President Nixon’s trip to Beijing in 1972 was to place an order of 13 cutting edge ammonia-urea plants from Texas.*
+**Fun fact #2: China’s first major business deal with the US following President Nixon’s trip to Beijing in 1972 was to place an order of 13 cutting edge ammonia-urea plants from Texas.**
 
 ### Four – Our conception of sustainable diets is broken.
 In particular, a number of diets (organic, pescetarian, paleo) that have gained momentum in the media might not be having the positive impacts we implicitly expect.
@@ -46,7 +46,7 @@ Vegan and vegetarian diets seem to be an exception, but with some asterisks. For
 
 Beef and lamb are still incredibly carbon-costly, which means most paleo diets are categorically bad for the planet. But efficiencies in poultry-rearing mean that a paleo diet consisting purely of chicken is more efficient than a vegan diet that is tomato-heavy and reliant on imports. Vegetarian diets in the West don’t discriminate between when which fruits and vegetables are being eaten. Given that 15% of all food-related fossil fuel consumption comes from energy needed for shipping and storing foods, it is likely that many would be better off eating locally-grown chicken over imported avocados or mangoes. 
 
-*Fun fact #3: Despite their enormous significance in Indian, Italian, Spanish and other cuisines, tomatoes are not endemic to them. They are native to Mexico and South America and were introduced worldwide by European transatlantic traders. A real fruit[^5] of early globalization.*
+>Fun fact #3: Despite their enormous significance in Indian, Italian, Spanish and other cuisines, tomatoes are not endemic to them. They are native to Mexico and South America and were introduced worldwide by European transatlantic traders. A real fruit[^5] of early globalization.*
 
 ### Five – Food waste is tragic. It must be phased, not priced out.
 If shopping organic from Whole Foods, going paleo or becoming vegan aren’t strictly correct answers to the food, and some meat seems essential for healthy eating – what can be done? We must waste less food. Estimates from the Food and Agriculture Organization[^6] seem to suggest that nearly 30% of all food is wasted from harvest to consumption. There is waste at every step of our complex food supply chains, and about half of all waste takes place until retail and half thereafter. Smil, in How the World Really Works writes that estimates from the UK's Waste and Resources Action Programme show that almost 70% of wasted food is perfectly edible. In sum, wasting 20% of the world’s total food supply seems criminal. In addition to harvest and transport waste, there is also non-food waste in how crops are grown that is troubling. Estimates suggest that almost two-thirds of the nitrogen that is used to grow rice in China is not absorbed by plants[^7].
@@ -67,8 +67,8 @@ Changing the food landscape would require addressing some fundamental bottleneck
 [^3]: Our World in Data [link](https://ourworldindata.org/grapher/land-use-agriculture-longterm?country=OWID_WRL~USA~IND)
 [^4]:  Executive Summary – Ammonia Technology Roadmap – Analysis - IEA [link](https://www.iea.org/reports/ammonia-technology-roadmap/executive-summary)
 [^5]:  Botanically, tomatoes are fruits (i.e. they come from the flowering part of plants), not vegetables
-[^6]: Food loss and waste | Nutrition (https://www.fao.org/nutrition/capacity-development/food-loss-and-waste/en/)
+[^6]: Food loss and waste – Nutrition (https://www.fao.org/nutrition/capacity-development/food-loss-and-waste/en/)
 [^7]: Smil, Vaclav How The World Really Works, 2021 (page 73) 
 [^8]: Smil, Vaclav How The World Really Works, 2021 (page 73) 
-[^9]:  Making real a biotechnology dream: nitrogen-fixing cereal crops | MIT News [link](https://news.mit.edu/2020/making-real-biotechnology-dream-nitrogen-fixing-cereal-crops-0110)
+[^9]:  Making real a biotechnology dream: nitrogen-fixing cereal crops – MIT News [link](https://news.mit.edu/2020/making-real-biotechnology-dream-nitrogen-fixing-cereal-crops-0110)
 [^10]: SF Chronicle on Upside Foods [link](https://news.mit.edu/2020/making-real-biotechnology-dream-nitrogen-fixing-cereal-crops-0110)
