@@ -2,7 +2,7 @@
 layout: post
 permalink: /about/index.html
 title: Shreyas Lakhtakia
-description: 
+description: "Data scientist, AI product manager, human"
 tags: [about, who, shreyas]
 image:
   feature: gili.jpg
