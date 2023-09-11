@@ -1,8 +1,8 @@
 ---
 layout: post
 permalink: /articles/index.html
-title: "Writings"
+title: Writings
 image:
-	eastpyne.jpg
-tags: [blog, graphic design]
+	feature: eastpyne.jpg
+tags: [blog, reflections, writings]
 ---
