@@ -2,7 +2,7 @@
 layout: post-light-feature
 title: Navigating Uncertainty – Views from a Road Trip
 description: "Life advice from a Bayesian Lens"
-category: articles
+category: writing
 tags: [data science, life advice, road trip]
 image:
   feature: highway_one.jpeg
