@@ -22,19 +22,19 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: About
+    url: /about
+  - title: Coffee
+    url: https://www.beaglecafe.xyz/
+    external: true
   - title: Life
     url: https://www.instagram.com/shrlak/
     external: true
   - title: Work
     url: https://www.linkedin.com/in/shreyasl/
     external: true
-  - title: Coffee
-    url: https://www.beaglecafe.xyz/
-    external: true
   - title: Writing
     url: /articles
-  - title: Bio
-    url: /bio
   
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York

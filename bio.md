@@ -1,6 +1,7 @@
 ---
 layout: post-no-feature
 title: "Professional Bio"
+permalink: /about/index.html
 description: "Shreyas Lakhtakia"
 category: articles
 ---
