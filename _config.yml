@@ -22,10 +22,8 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about
   - title: Coffee
-    url: https://www.beaglecafe.xyz/
+    url: https://msande.stanford.edu/research-impact/stories-voices/students/meet-our-graduates-shreyas-lakhtakia-ms-24
     external: true
   - title: Life
     url: https://www.instagram.com/shrlak/
