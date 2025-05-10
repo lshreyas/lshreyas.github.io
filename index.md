@@ -12,9 +12,8 @@ image:
  -->
 
 **About** <br>
-I'm passionate about improving human health and society with data and technology, care deeply about human community, and enjoy [meaningful conversation](https://sfstandard.com/2024/03/15/stanford-university-protests-debate/). I'm currently building a new AI product in the clinical research space at [Verily](https://verily.com), the [Google X moonshot](https://x.company/projects/verily/) on health. 
+I'm passionate about improving human health and society with data and technology, care deeply about human community, and enjoy [meaningful conversation](https://sfstandard.com/2024/03/15/stanford-university-protests-debate/). I'm currently building a new AI product in the clinical research space at [Verily](https://verily.com), the [Google X moonshot](https://x.company/projects/verily/) in health. 
 
-A third-person bio is [here](https://www.lakhtak.io/about).
 
 **Data Scientist turned AI Product Manager** <br>
 Previously, I was exploring AI for good applications as a [Threshold Venture Fellow](https://stvp.stanford.edu/tvf#Current-Cohort) and questions of fairness and interpretability in AI  as a [Defense Innovation Scholar](https://gordianknot.stanford.edu/people/shreyas-lakhtakia) at [Stanford](https://msande.stanford.edu/). While at Stanford, I was fortunate to work in venture doing research, investing, and special projects at [General Catalyst](https://generalcatalyst.com).
