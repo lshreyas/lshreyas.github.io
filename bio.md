@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: post-no-feature
 title: "Professional Bio"
 permalink: /about/index.html
@@ -16,4 +16,3 @@ He is an inventor on [multiple patents](https://patents.google.com/?inventor=Shr
  
 
  
- -->
