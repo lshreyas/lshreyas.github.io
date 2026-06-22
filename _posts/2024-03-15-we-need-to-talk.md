@@ -10,8 +10,6 @@ image:
 ---
 **This piece is published by the SF Standard under the title *Opinion: How I got students to talk about hard things on a divided Stanford University campus* [here](https://sfstandard.com/opinion/2024/03/15/stanford-university-protests-debate/)**
 
-#### Our places of learning are becoming polarizing and toxic. Here's what I've learned about how they can bring us together instead — by inviting 200+ strangers to my home
-
 *"I love Korean people,"* Akshay\*, who was obviously not Korean, started. *Oh no*, I thought. Bracing for a bad take — and eager to prevent him, but more importantly myself by association, from getting canceled — I changed the topic of conversation urgently. This was at Beagle Cafe ([Stanford Daily](https://stanforddaily.com/2022/04/20/a-graduate-students-grand-cafe-experiment/), [Stanford Magazine](https://stanfordmag.org/contents/coffee-talk), [site](https://www.beaglecafe.xyz/)), a conversation project between strangers on Stanford's campus. Held weekly in groups of 5–6, it brings together students from across departments for an unstructured conversation with no premeditated goals, except one — no small talk.
 
 ### Random talk
