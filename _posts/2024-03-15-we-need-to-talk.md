@@ -1,5 +1,13 @@
-# We need to talk
-
+---
+layout: post
+title: We Need to Talk
+description: Our places of learning are becoming polarizing and toxic. Here's what I've learned about how they can bring us together instead — by inviting 200+ strangers to my home
+category: articles
+tags: [emotion, society, data]
+image:
+  feature: beagle.jpg
+  thumb: 
+---
 **This piece is published by the SF Standard under the title *Opinion: How I got students to talk about hard things on a divided Stanford University campus* [here](https://sfstandard.com/opinion/2024/03/15/stanford-university-protests-debate/)**
 
 #### Our places of learning are becoming polarizing and toxic. Here's what I've learned about how they can bring us together instead — by inviting 200+ strangers to my home
