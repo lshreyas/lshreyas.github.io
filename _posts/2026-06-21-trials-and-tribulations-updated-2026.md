@@ -8,7 +8,6 @@ image:
   feature: india_trials.webp
   thumb: 
 ---
-
 **Why clinical trials matter, what makes them hard, and how India's unique demographics can help it champion global health for the Global South**
 
 *A note from 2026: I first wrote this in early 2024. Since then, the M72 tuberculosis vaccine has moved deeper into late-stage trials and India's role in global clinical research has only grown more consequential. I'm republishing it here largely as written, because the underlying argument — that India's demographics make it uniquely positioned to lead clinical trials for the Global South, if it can rebuild trust in its institutions — has, if anything, become more urgent.*
